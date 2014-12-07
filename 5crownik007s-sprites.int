@@ -1,8 +1,8 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: some jumpsuits for no reason whatsoever.dmi;jumpsuit4sides.dmi
-FILE: some jumpsuits for no reason whatsoever.dmi
+WINDOW: jumpsuits4sides.dmi
+FILE: jumpsuits4sides.dmi
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS
